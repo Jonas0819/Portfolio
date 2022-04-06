@@ -680,7 +680,7 @@ const projects = {
     {
       id: "3",
       name: "Portafolio",
-      url: "",
+      url: "https://github.com/Jonas0819/Portfolio",
       description: "My Portafolio",
       languages: [
         {
