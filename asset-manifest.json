@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.86237cc5.chunk.css",
+    "main.js": "/Portfolio/static/js/main.aff0a365.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.aff0a365.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.e3b9ca47.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.e3b9ca47.js.map",
+    "static/js/2.74a42442.chunk.js": "/Portfolio/static/js/2.74a42442.chunk.js",
+    "static/js/2.74a42442.chunk.js.map": "/Portfolio/static/js/2.74a42442.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.ba4845efb422710838f7f3cb01a14e9c.js": "/Portfolio/precache-manifest.ba4845efb422710838f7f3cb01a14e9c.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.86237cc5.chunk.css.map": "/Portfolio/static/css/main.86237cc5.chunk.css.map",
+    "static/js/2.74a42442.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.74a42442.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/CFC.jfif": "/Portfolio/static/media/CFC.71eef4be.jfif",
+    "static/media/GCS.jfif": "/Portfolio/static/media/GCS.c68e2fd2.jfif",
+    "static/media/HakinCodes.jfif": "/Portfolio/static/media/HakinCodes.80c2a481.jfif",
+    "static/media/NSS.jfif": "/Portfolio/static/media/NSS.2122f752.jfif",
+    "static/media/NTL.jfif": "/Portfolio/static/media/NTL.dfed8eb4.jfif",
+    "static/media/Olympiad.png": "/Portfolio/static/media/Olympiad.8c42b545.png",
+    "static/media/Reply.jfif": "/Portfolio/static/media/Reply.065b8c91.jfif",
+    "static/media/SRM_Logo.png": "/Portfolio/static/media/SRM_Logo.0ea33a80.png",
+    "static/media/Technocolabs.jfif": "/Portfolio/static/media/Technocolabs.dfdfd929.jfif",
+    "static/media/Webarch.jfif": "/Portfolio/static/media/Webarch.0ea33a80.jfif",
+    "static/media/all.css": "/Portfolio/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/hackathon1.png": "/Portfolio/static/media/hackathon1.d9d29e23.png",
+    "static/media/hackathon2.png": "/Portfolio/static/media/hackathon2.f7b5b075.png",
+    "static/media/mlh-logo.svg": "/Portfolio/static/media/mlh-logo.bc5cfd3a.svg",
+    "static/media/mlh.png": "/Portfolio/static/media/mlh.53dd27a8.png",
+    "static/media/mongo.png": "/Portfolio/static/media/mongo.d324ee17.png",
+    "static/media/profile_photo_2.jpg": "/Portfolio/static/media/profile_photo_2.54122966.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3b9ca47.js",
+    "static/js/2.74a42442.chunk.js",
+    "static/css/main.86237cc5.chunk.css",
+    "static/js/main.aff0a365.chunk.js"
+  ]
+}
